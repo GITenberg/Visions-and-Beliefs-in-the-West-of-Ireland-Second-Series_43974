@@ -1,0 +1,40 @@
+_repo: Visions-and-Beliefs-in-the-West-of-Ireland-Second-Series_43974
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Yeats, W. B. (William Butler)
+    alias: Yeats, William Butler
+    birthdate: 1865
+    deathdate: 1939
+    gutenberg_agent_id: '1719'
+    url: http://www.gutenberg.org/2009/agents/1719
+    wikipedia: http://en.wikipedia.org/wiki/William_Butler_Yeats
+  compiler:
+    agent_name: Gregory, Lady
+    aliases:
+    - Persse, Isabella Augusta
+    - Gregory, Isabella Augusta Persse, Lady
+    birthdate: 1852
+    deathdate: 1932
+    gutenberg_agent_id: '4092'
+    url: http://www.gutenberg.org/2009/agents/4092
+    wikipedia: http://en.wikipedia.org/wiki/Augusta,_Lady_Gregory
+covers:
+- cover_type: archival
+  image_path: 43974-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2013-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43974'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Ireland'
+- !lcsh 'Ireland -- Social life and customs'
+- !lcsh 'Atlantic Coast (Ireland) -- Social life and customs'
+- !lcc 'GR'
+title: Visions and Beliefs in the West of Ireland, Second Series
+url: http://www.gutenberg.org/ebooks/43974

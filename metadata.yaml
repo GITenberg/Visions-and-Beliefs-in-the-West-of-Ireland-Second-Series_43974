@@ -23,6 +23,8 @@ covers:
 - cover_type: archival
   image_path: 43974-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43974#Visions-and-Beliefs-in-the-West-of-Ireland-Second-Series
 gutenberg_issued: '2013-10-18'
 gutenberg_type: Text
 identifiers:
